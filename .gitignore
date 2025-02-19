@@ -1,0 +1,15 @@
+# Ignore virtual environment
+travel_env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore API keys & environment files
+.env
+config.py
+
+# Ignore Streamlit logs
+.streamlit/
