@@ -1,0 +1,8 @@
+gemini -> AIzaSyA5a6aBrmxp1nBBX_uu2uk1jFJN2p23YA4
+serpapi -> d9e9e8c64369eebfeaa4f87f16b3ece92b3cf8ec8e52617076091e2366fd360f
+weatherstack -> 4a64aac18f5b67e2c68afed779f295f4
+database pass -> aWhkc7R!_qWWwN_
+supabase project url -> https://pglfalufvfftxnzylciz.supabase.co
+supabase api -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBnbGZhbHVmdmZmdHhuenlsY2l6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzk5NTQ0ODEsImV4cCI6MjA1NTUzMDQ4MX0.8DwIqvlA86LvciJi1rC2HQkImoei9naAk30h68H9d2I
+JWT -> 6e713c400600ff547412c65b879320c10751650da27311d72560b45b29d48f5d
+openweather -> 07bf1911d062fb9069872400780b0f1e

@@ -1,0 +1,16 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+streamlit==1.23.0
+langchain==0.0.148
+faiss-cpu==1.7.3
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
+supabase==2.13.0
+serpapi==0.1.5
+bcrypt==4.0.1
+PyJWT==2.6.0
+google-generative-language
+langchain_community
+pydantic
+email-validator
+python-multipart
